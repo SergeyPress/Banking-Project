@@ -15,7 +15,7 @@ A simple text-based banking system implemented in Python with SQLite for data st
 
 ```bash
 git clone https://github.com/yourusername/banking-system.git
-'''
+```
 
 2. run the script 
 python banking_system.py
